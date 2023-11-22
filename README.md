@@ -1,2 +1,2 @@
 # Wednesday-Internship_Task
-This repository is being made to submit the internship task for the role of Data Engineer - Intern in Wednesday Solution.
+This folder contains the internship assessment for Wednesday Solution, comprising assignments related to ETL, SQL, and Data Analysis.
