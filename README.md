@@ -1,10 +1,10 @@
 # Wednesday-Internship_Task
-This is an internship assessment for Wednesday Solution, comprising assignments related to ETL, SQL, and Data Analysis, and it also includes a detail discussion about the plan and strategy for healthcare market in the region.
+This is an internship assessment for Wednesday Solution, comprising assignments related to ETL, SQL, and Data Analysis, and it also includes a detailed discussion about the plan and strategy to target the healthcare market in the region.
 
 PDF file - Data-Engineering-Test gives detailed instructions about assessment.
 
 # 1. Task ETL and Analysis using SQL
-* Folder name "Task - ETL and SQL" in the repository gives access to this task, additionally pdf file of the code is also provided in the same folder for reference.
+* Folder name "Task - ETL and SQL" in the repository gives access to this task file, additionally, a pdf file of the code is also provided in the same folder for reference.
 * Please go through the Python file of the task to get a detailed approach and explanation of the ETL process with an alternate suggestion.
 * Data Analysis is being done through SQL in the same Python file.
 * Active SQL Server required (Local Host), and credentials for the same are needed to complete the ETL process.
@@ -36,7 +36,7 @@ import pandasql as ps
 #
 
 # 2. Task 4 - Understand the Market Dynamics for Health Insurance Plans & develop a Targeted Marketing Strategy
-* Folder name "Task - 4 Data Analysis" in the repository gives access to this task, additionally pdf file of the code is also provided in the same folder for reference.
+* Folder name "Task 4 - Data Analysis" in the repository gives access to this task file, additionally, a pdf file of the code is also provided in the same folder for reference.
 * Detailed information about the approach to achieve the desired outcome is being explained in the Python file in the folder.
 * Please go through the detailed report generated (5 reports in total) and conclusion presented in the code file to consider a decision-making approach (as demanded) and to get the detailed outcome, and summary of the analysis.
 * Detailed strategy and plan are being shared in the last conclusion section of the file.
